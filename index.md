@@ -11,4 +11,4 @@ License - GNU GPL V-3.0
 
 * Screenshot :
 
-![screenshot]('screenshot.png')
+![screenshot]('https://github.com/baponkar/secret-message-generator/blob/master/screenshot.png')
