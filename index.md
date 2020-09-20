@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Secret message generator
 
-You can use the [editor on GitHub](https://github.com/baponkar/secret-message-generator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Python Badge](https://img.shields.io/badge/python-3-blue)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Version - V-1.0.0
 
-### Markdown
+License - GNU GPL V-3.0
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  :panda_face:
 
-```markdown
-Syntax highlighted code block
+## This Python3 script encode and decode entered inputed text message.To encode the message each time generated different key file .To decode that encoded file by corresponding key file.You are not able to decode without key file.After decoding each key file deleted.This single file is containing encode and decode process ,we can use differently encoding and decoding.
 
-# Header 1
-## Header 2
-### Header 3
+* Screenshot :
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/baponkar/secret-message-generator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+:apple:
